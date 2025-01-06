@@ -19,28 +19,5 @@ Bu proje, bir markanın anasayfa klonunun React kullanılarak yapılmış bir ve
 - Responsive web tasarımı için CSS kullanımı.
 - Temiz ve sürdürülebilir kod yazımı için en iyi uygulamalar.
 
-## Başlangıç
-1. Bu deposunu klonlayın:
-   ```bash
-   git clone <depo-url>
-   ```
-2. Proje dizinine gidin:
-   ```bash
-   cd marka-anasayfa-klonu
-   ```
-3. Bağımlılıkları yükleyin:
-   ```bash
-   npm install
-   ```
-4. Geliştirme sunucusunu başlatın:
-   ```bash
-   npm start
-   ```
-5. Tarayıcınızı açın ve `http://localhost:3000` adresini ziyaret edin.
-
-## Gelecekteki Geliştirmeler
-- Daha fazla animasyon ve geçiş ekleme.
-- Dinamik içerik getirmek için bir backend uygulama.
-- Erişilebilirlik özelliklerini iyileştirme.
 
 
